@@ -8,5 +8,5 @@ Whoami is one of web issue diagnostic tools written with  Go
 
 `go build `
 
-`./whoami -d="mydomain.com"`
+`./whoami -d=mydomain.com`
 
